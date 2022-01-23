@@ -1,2 +1,2 @@
 # Machine-Learning
-#This Project consists of exercises from Stanford's Machine Learning Class on Coursera.
+#This Project is based on material from Stanford's Machine Learning Class on Coursera. It includes course exercises and some other fun stuff.
